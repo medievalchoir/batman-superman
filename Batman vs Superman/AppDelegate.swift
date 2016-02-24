@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Batman vs Superman
 //
-//  Created by Joe Lampasona on 2/22/16.
-//  Copyright © 2016 Joe Lampasona. All rights reserved.
 //
 
 import UIKit
